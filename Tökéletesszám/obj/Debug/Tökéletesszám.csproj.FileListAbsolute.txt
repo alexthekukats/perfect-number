@@ -1,0 +1,16 @@
+O:\C# progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.exe
+O:\C# progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.pdb
+O:\C# progik\Tökéletesszám\Tökéletesszám\obj\Debug\ResolveAssemblyReference.cache
+O:\C# progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.exe
+O:\C# progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.pdb
+F:\Users\Alex\Documents\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.exe
+F:\Users\Alex\Documents\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.pdb
+F:\Users\Alex\Documents\C# Progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.exe
+F:\Users\Alex\Documents\C# Progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.pdb
+F:\Users\Alex\Documents\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\ResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.exe
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\bin\Debug\Tökéletesszám.pdb
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.csproj.CoreCompileInputs.cache
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.exe
+D:\Mentes\Alex_old\C# Progik\Tökéletesszám\Tökéletesszám\obj\Debug\Tökéletesszám.pdb
