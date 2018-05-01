@@ -23,7 +23,7 @@ namespace ConsoleApplication1
                 {
                     Console.WriteLine("Ez a szám tökéletes: {0}", sz);
                 }
-                sz = 0;
+                sz = 0; 
             }
         }
     }
